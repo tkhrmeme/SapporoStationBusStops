@@ -1,0 +1,2 @@
+# SapporoStationBusStops
+札幌駅前周辺バスのりばのデータ
